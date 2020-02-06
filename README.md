@@ -41,6 +41,7 @@ It can report 5 different categories: Performance, PWA, Best practices, Accessib
 
 - Gives you a flame chart
 - Look for long tasks that are holding the main thread and lower fps, indicated with a red corner mark
+- You can also save and load these charts as JSON
 
 **Code coverage**
 
