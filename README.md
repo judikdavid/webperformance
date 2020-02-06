@@ -29,7 +29,7 @@ It can report 5 different categories: Performance, PWA, Best practices, Accessib
 - Depends on a lots of things (computer, location, network) -> giving a different result every time
 - Performance scoring: https://web.dev/performance-scoring/
 
-***Tips to use:***
+***Tips how to use:***
 - It depends on your user/ your chrome extensions -> best to use them in incognito mode
 - If you are looking for improvements in our sites, best to use the `no3rdparty` feature switch to eliminate 3rd party resources and measure only our code
 - You can download your report as HTML/JSON to share it
