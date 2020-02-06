@@ -2,9 +2,6 @@
 
 Multiple tools with their own metrics.
 
-WebpageTest and Lighthouse
-https://webpagetest.org/
-
 **Metrics**
 
 Almost every metric is made up, they are not standardized and could be ambiguous.
@@ -13,6 +10,12 @@ Almost every metric is made up, they are not standardized and could be ambiguous
 - First Meaningful Paint (FMP) measures when the primary content of a page is visible to the user.
 - The Time to Interactive (TTI) metric measures how long it takes a page to become interactive.
 - More: https://web.dev/lighthouse-performance/
+
+**Tools**
+
+WebpageTest 
+https://webpagetest.org/
+and Lighthouse
 
 **Lighthouse**
 
